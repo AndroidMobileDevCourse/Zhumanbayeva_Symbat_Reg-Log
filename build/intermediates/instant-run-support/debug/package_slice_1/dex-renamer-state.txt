@@ -1,0 +1,4 @@
+#Sat Oct 13 19:17:19 ALMT 2018
+base.0=C\:\\Users\\Ozaki\\Downloads\\Zhumanbaeva_Project2-generated\\Project2\\build\\intermediates\\transforms\\dexMerger\\debug\\55
+path.0=classes.dex
+renamed.0=classes.dex

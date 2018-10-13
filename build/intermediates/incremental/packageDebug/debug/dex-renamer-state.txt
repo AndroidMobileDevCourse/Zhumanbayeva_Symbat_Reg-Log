@@ -1,0 +1,19 @@
+#Sat Oct 13 19:37:47 ALMT 2018
+path.1=classes.dex
+path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=C\:\\Users\\Ozaki\\Downloads\\Zhumanbaeva_Project2-generated\\Project2\\build\\intermediates\\transforms\\dexMerger\\debug\\68
+base.4=C\:\\Users\\Ozaki\\Downloads\\Zhumanbaeva_Project2-generated\\Project2\\build\\intermediates\\transforms\\dexMerger\\debug\\66
+base.3=C\:\\Users\\Ozaki\\Downloads\\Zhumanbaeva_Project2-generated\\Project2\\build\\intermediates\\transforms\\dexMerger\\debug\\69
+base.2=C\:\\Users\\Ozaki\\Downloads\\Zhumanbaeva_Project2-generated\\Project2\\build\\intermediates\\transforms\\dexMerger\\debug\\64
+base.1=C\:\\Users\\Ozaki\\Downloads\\Zhumanbaeva_Project2-generated\\Project2\\build\\intermediates\\transforms\\dexMerger\\debug\\67
+base.0=C\:\\Users\\Ozaki\\Downloads\\Zhumanbaeva_Project2-generated\\Project2\\build\\intermediates\\transforms\\dexMerger\\debug\\65
+path.5=classes.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex

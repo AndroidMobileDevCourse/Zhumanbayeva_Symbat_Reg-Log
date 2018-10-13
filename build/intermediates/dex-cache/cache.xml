@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ozaki\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.3\bde0667d7414c16ed62d3cfe993cff7f9d732373\constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="C:\Users\Ozaki\Downloads\Zhumanbaeva_Project2-generated\Project2\build\intermediates\transforms\preDex\release\16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ozaki\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\7a1d693062e2bb2478555dc1087da689\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="C:\Users\Ozaki\Downloads\Zhumanbaeva_Project2-generated\Project2\build\intermediates\transforms\preDex\release\12\classes.dex" />
+    </item>
+
+</items>
